@@ -11,8 +11,8 @@
 “生物识别数据”是通过对自然人的物理、生物或行为特征进行特定的技术处理的得到的个人数据。这类数据生成了那个自然人的唯一标识，比如人脸图像或指纹识别数据
 
 图像信息描述：
-2022 ICLR SimVLM Simple Visual Language Model Pretraining with Weak Supervision
-
+2022 ICLR SimVLM Simple Visual Language Model Pretraining with Weak Supervision；
+采用原始图像输入，只使用语言建模损失，使用前缀语言建模（PrefixLM）预训练视觉语言表示--微调
 
 搞个半监督的数据集
 
