@@ -14,7 +14,12 @@
 
 图像信息描述：
 2022 ICLR SimVLM Simple Visual Language Model Pretraining with Weak Supervision；
-采用原始图像输入，只使用语言建模损失，使用前缀语言建模（PrefixLM）预训练视觉语言表示--微调
+
+对于视觉形态，受到ViT和CoAtNet的启发，并直接将原始图像作为输入。由ResNet的前三个块组成的卷积（Conv）阶段来提取上下文化的补丁
+
+对于文本模态，我们遵循标准做法将输入句子标记为子单词标记，并学习固定词汇的嵌入。为了保留位置信息，我们分别为图像和文本输入添加了两个可训练的1D位置嵌入，只使用语言建模损失，使用前缀语言建模（PrefixLM）预训练视觉语言表示
+
+最后使用已标记的数据对模型进行微调
 ![image](https://user-images.githubusercontent.com/86655336/220800228-b05f03c2-2753-4a0d-a6d8-7741fe3487fa.png)
 
 搞个半监督的数据集
