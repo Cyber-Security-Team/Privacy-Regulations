@@ -13,6 +13,7 @@
 图像信息描述：
 2022 ICLR SimVLM Simple Visual Language Model Pretraining with Weak Supervision；
 采用原始图像输入，只使用语言建模损失，使用前缀语言建模（PrefixLM）预训练视觉语言表示--微调
+![image](https://user-images.githubusercontent.com/86655336/220800228-b05f03c2-2753-4a0d-a6d8-7741fe3487fa.png)
 
 搞个半监督的数据集
 
