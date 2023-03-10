@@ -24,30 +24,22 @@ Everyone has the right to freedom of peaceful assembly and to freedom of associa
 The right in article 19(2) protects freedom of expression in any medium, for example written and oral communications, the media, public protest, broadcasting, artistic works and commercial advertising. 
 保护任何媒介的言论自由，例如书面和口头交流、媒体、公众抗议、广播、艺术作品和商业广告。--《公民权利和政治权利国际公约》
 
-Any propaganda for war shall be prohibited by law.
-Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law.
-任何战争宣传应由法律禁止。任何鼓吹民族、种族或宗教仇恨，构成煽动歧视、敌视或暴力的行为，应由法律加以禁止。--《公民权利和政治权利国际公约》
+These limits come into play when there is a conflict between this right and other rights and freedoms, such as in cases of defamation, slander, pornography, obscenity, or infringement of intellectual property. In addition, the law prohibits any propaganda for war and any advocacy of national, racial, or religious hatred that incites discrimination, hostility, or violence.
+言论自由不是绝对权利，它有一定的法律和社会限制。 当这项权利与其他权利和自由发生冲突时，例如在诽谤、诽谤、色情、淫秽或侵犯知识产权的情况下，这些限制就会发挥作用。 此外，法律禁止任何战争宣传和任何煽动歧视、敌意或暴力的民族、种族或宗教仇恨的鼓吹。
 
 2.集会自由：
-Everyone has the right to freedom of peaceful assembly. The right of peaceful assembly includes the right to hold meetings, sit-ins, strikes, rallies, events or protests, both offline and online.
-人人有权享有和平集会的自由。和平集会权包括举行离线和在线会议、静坐、罢工、集会、活动或抗议的权利。
-
-The freedom to assemble refers to the American people’s right to get together for any purpose.Hosting a party, having a board game night with the neighbors, or even going to church are all freedom of assembly examples. 
-However, the difference is that assemblies in public places are only protected for social or political purposes.
-集会自由是指美国人民为任何目的聚集在一起的权利。举办派对，与邻居一起玩棋盘游戏之夜，甚至去教堂都是集会自由的例子。然而，不同的是，只有出于社会或政治目的在公共场所集会才受到保护。（向政府请愿）
+The right to freedom of peaceful assembly is an individual right that includes the ability of people to come together and collectively express, promote, pursue, and defend their shared ideas. This right encompasses the right to hold meetings, sit-ins, strikes, rallies, events, or protests, both offline and online.
+和平集会自由权是一项个人权利，包括人们聚集在一起并集体表达、促进、追求和捍卫他们共同想法的能力。 这项权利包括在线下和在线举行会议、静坐、罢工、集会、活动或抗议的权利。
 
 Violent gatherings are illegal, meaning that riots, street fights, and insurrections are not protected by freedom of assembly. Additionally, gatherings that involve illegal activities and disrupt law and order are not allowed. For example, protests that interfere with traffic are not protected.
 暴力集会是非法的，这意味着骚乱、街头斗殴和叛乱不受集会自由的保护。此外，不允许涉及非法活动和扰乱法律和秩序的集会。例如，干扰交通的抗议活动不受保护。
 
 3.结社自由：
-The right to freedom of association protects the right of all persons to group together voluntarily for a common goal and to form and join an association. Examples are political parties, professional or sporting clubs, non-governmental organisations and trade unions.
-结社自由权保护所有人为共同目标自愿组合在一起以及组织和加入社团的权利。例如政党、专业或体育俱乐部、非政府组织和工会。
+Freedom of association is manifested through the right to join a trade union, to engage in free speech or to participate in debating societies, political parties, or any other club or association, including religious denominations and organizations, fraternities, and sport clubs and not to be compelled to belong to an association.
+结社自由体现在有权加入工会、参与言论自由或参加辩论协会、政党或任何其他俱乐部或协会，包括宗教派别和组织、兄弟会和体育俱乐部，而不是被迫加入一个协会。
 
-Numerous laws effectively restrict freedom of assembly and association on grounds contained in the laws. For example, the Criminal Code criminalises associating with a member of a terrorist organisation and thereby providing support to it, if the person intends that the support assist the organisation.
-许多法律以法律所载理由有效地限制集会和结社自由。例如，《刑法典》规定，与恐怖组织成员有联系从而向其提供支助，如果该人打算让支助协助该组织，则属犯罪行为。
-
-Laws can reasonably interfere with freedom of association, such as the need to fight crime and control traffic.
-法律可以合理地干预结社自由，例如打击犯罪和控制交通的需要。
+Numerous laws effectively restrict freedom of assembly and association on grounds contained in the laws. For example, the Criminal Code criminalises associating with a member of a terrorist organisation and thereby providing support to it, if the person intends that the support assist the organisation.Laws can reasonably interfere with freedom of association, such as the need to fight crime and control traffic.
+许多法律以法律所载理由有效地限制集会和结社自由。例如，《刑法典》规定，与恐怖组织成员有联系从而向其提供支助，如果该人打算让支助协助该组织，则属犯罪行为。法律可以合理地干预结社自由，例如打击犯罪和控制交通的需要。
 
 
 （2）宗教：
