@@ -11,7 +11,7 @@
 匹配法规时能不能用自己总结的话代替法规原文？
 
 
-政治观点：
+（1）政治观点：
 Everyone has the right to freedom of expression.
 人人享有表达自由的权利；
 Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.
@@ -40,14 +40,53 @@ Violent gatherings are illegal, meaning that riots, street fights, and insurrect
 暴力集会是非法的，这意味着骚乱、街头斗殴和叛乱不受集会自由的保护。此外，不允许涉及非法活动和扰乱法律和秩序的集会。例如，干扰交通的抗议活动不受保护。
 
 3.结社自由：
+The right to freedom of association protects the right of all persons to group together voluntarily for a common goal and to form and join an association. Examples are political parties, professional or sporting clubs, non-governmental organisations and trade unions.
+结社自由权保护所有人为共同目标自愿组合在一起以及组织和加入社团的权利。例如政党、专业或体育俱乐部、非政府组织和工会。
+
+Numerous laws effectively restrict freedom of assembly and association on grounds contained in the laws. For example, the Criminal Code criminalises associating with a member of a terrorist organisation and thereby providing support to it, if the person intends that the support assist the organisation.
+许多法律以法律所载理由有效地限制集会和结社自由。例如，《刑法典》规定，与恐怖组织成员有联系从而向其提供支助，如果该人打算让支助协助该组织，则属犯罪行为。
+
+Laws can reasonably interfere with freedom of association, such as the need to fight crime and control traffic.
+法律可以合理地干预结社自由，例如打击犯罪和控制交通的需要。
 
 
+（2）宗教：
+Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.
+人人有权享有思想、良心以及宗教自由。此项权利包括改变其宗教信仰以及单独地或者同他人一起，公开地或者私下地，通过礼拜、传教、仪式以及对教规的遵守表示其宗教或者信仰的自由。
+
+1.religion worship宗教礼拜：
+Established places of worship came to be characteristic of the major religions. Temples, mosques, and churches were erected at state expense or through the beneficence of kings, merchants, bankers, or religious leaders. 
+既定的礼拜场所成为主要宗教的特征。寺庙、清真寺和教堂是由国家出资或通过国王、商人、银行家或宗教领袖的慈善建造的。
+
+worship, broadly defined, the response, often associated with religious behaviour and a general feature of almost all religions, to the appearance of that which is accepted as holy—that is, to a sacred power or being. Characteristic modes of response to the holy include cultic acts of all kinds: ritual drama, prayers of many sorts, dancing, ecstatic speech, veneration of various persons and objects, sermons, silent meditation, and sacred music and song. Also included in worship are acts of private response: spoken or unspoken prayers, silence, the assumption of particular postures, ritual acts and gestures, and individual acts of veneration of persons or objects.
+worship ，广义定义，通常与宗教行为和几乎所有宗教的一般特征相关联，对被接受为神圣事物的外观的反应 - 即对神圣的力量或存在。回应圣物的典型方式包括各种祭祀行为：仪式 戏剧、各种祈祷、舞蹈、狂喜的演讲、对不同的人和物的崇拜、布道、静默冥想以及神圣的音乐和歌曲。敬拜中还包括私人回应行为：口头或不口头的祈祷、沉默、特定姿势的假设、仪式行为和手势，以及个人对人或物的崇拜行为。
+
+Silence, devotional readings, set prayers, the rosary (beads used as a devotional aid in Roman Catholicism), bodily postures and attitudes, music, and works of art, including the icons (images) of Eastern Christian churches, all serve to help the worshipper to concentrate his apprehension of the power of the holy and to intensify his sense of the presence of the holy. 
+静默、虔诚的阅读、固定的祈祷、念珠（在罗马天主教中用作虔诚辅助的珠子）、身体姿势和态度、音乐和艺术作品，包括东方基督教教堂的圣像（图像），所有这些都有助于帮助供奉者集中对圣者之力的领悟，强化对圣者临在感。
+
+2.religion teaching宗教教学：
+Under U.S. law, religious education is forbidden in public schools, except from a neutral, academic perspective.
+根据美国法律，公立学校禁止宗教教育，除非是从中立的学术角度
+
+Public schools may not teach religion, although teaching about religion in a secular context is permitted.
+公立学校不得教授宗教，但允许在世俗环境中教授宗教。
+
+3.religion practice宗教实践：
+Religion often involves cultural beliefs, worldviews, texts, prophecies, revelations, and morals that have spiritual meaning to members of the particular faith, and it can encompass a range of practices, including sermons, rituals, prayer, meditation, holy places, symbols, trances, and feasts.
+宗教通常涉及对特定信仰的成员具有精神意义的文化信仰、世界观、文本、预言、启示和道德，它可以包括一系列实践，包括布道、仪式、祈祷、冥想、圣地、象征、恍惚和盛宴。
+
+It states religion may not be used to disrupt public order, impair the health of citizens, or interfere with the educational system. 
+规定公民“享有宗教信仰自由”，但对宗教活动的保护仅限于“正常的宗教活动”，而没有定义正常。它规定宗教不得被用来扰乱公共秩序，损害公民的健康或干扰教育系统。
+
+Several religious and spiritual groups, dubbed “heterodox cults” by Beijing, are subject to regular government crackdowns. The party-state has banned more than a dozen such faiths on the grounds that adherents use religion “as a camouflage, deifying their leading members, recruiting and controlling their members, and deceiving people by molding and spreading superstitious ideas, and endangering society.” Those banned include quasi-Christian groups such as the Church of Almighty God, also known as Eastern Lightning, and Falun Gong, a spiritual movement that blends aspects of Buddhism, Daoism, and traditional qigong exercise. International human rights groups, scholars of religion, and Chinese human rights lawyers have questioned such designations, criticizing the Chinese government for harsh repression against believers.
+一些被北京称为“非正统邪教”的宗教和精神团体经常受到政府的镇压。党国已经禁止了十几种这样的信仰，理由是信徒利用宗教“作为伪装，神化他们的领导成员，招募和控制他们的成员，并通过塑造和传播迷信思想来欺骗人们，危害社会。被禁止的包括准基督教团体，如全能神教会，也被称为东方闪电，以及法轮功，法轮功是一种融合了佛教、道教和传统气功运动的精神运动。国际人权组织、宗教学者和中国人权律师对这种称呼提出质疑，批评中国政府对信徒的严厉镇压。
 
 
-
-
-
-
+4.religion observance对教规的遵守：
+他们穿的衣服或配饰，如十字架项链、头巾、头巾等。
+他们持有或展示的符号或物品，如圣经、念珠、祈祷垫等。
+他们采取的手势或姿势，如双手合十、低头、跪下等。
+图片的背景或背景，例如教堂、清真寺、寺庙等。
 
 
 
