@@ -105,3 +105,4 @@ Several religious and spiritual groups, dubbed “heterodox cults” by Beijing,
 社保卡：姓名+号码、姓名+本人相片
 居住证：姓名+号码、姓名+本人相片、姓名+地址
 写出如下信息：姓名+身份证号、姓名+住址、姓名+本人相片
+
