@@ -54,7 +54,7 @@ Public schools may not teach religion, although teaching about religion in a sec
 
 3.religion practice宗教实践：
 Religious Practice means a term including practices and observances such as attending worship services, wearing religious garb or symbols, praying at prescribed times, displaying religious objects, adhering to certain dietary rules, refraining from certain activities, proselytizing, etc.
-宗教实践是指包括实践和仪式的术语，例如参加礼拜仪式（双手合十、低头、跪下等手势或姿势），穿着宗教服装或符号（十字架项链、头巾、头巾等衣服或配饰），在规定时间祈祷，展示宗教物品，遵守某些饮食规则，避免某些活动， 传教等。
+宗教实践是指包括实践和仪式的术语，例如参加礼拜仪式（双手合十、低头、跪下等手势或姿势），穿着宗教服装或符号（十字架项链、头巾、面纱等衣服或配饰），在规定时间祈祷，展示宗教物品，遵守某些饮食规则，避免某些活动， 传教等。
 
 It states religion may not be used to disrupt public order, impair the health of citizens, or interfere with the educational system. 
 规定公民“享有宗教信仰自由”，但对宗教活动的保护仅限于“正常的宗教活动”，而没有定义正常。它规定宗教不得被用来扰乱公共秩序，损害公民的健康或干扰教育系统。
