@@ -46,41 +46,22 @@ Numerous laws effectively restrict freedom of assembly and association on ground
 Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.
 人人有权享有思想、良心以及宗教自由。此项权利包括改变其宗教信仰以及单独地或者同他人一起，公开地或者私下地，通过礼拜、传教、仪式以及对教规的遵守表示其宗教或者信仰的自由。
 
-1.religion worship宗教礼拜：
-Established places of worship came to be characteristic of the major religions. Temples, mosques, and churches were erected at state expense or through the beneficence of kings, merchants, bankers, or religious leaders. 
-既定的礼拜场所成为主要宗教的特征。寺庙、清真寺和教堂是由国家出资或通过国王、商人、银行家或宗教领袖的慈善建造的。
-
-worship, broadly defined, the response, often associated with religious behaviour and a general feature of almost all religions, to the appearance of that which is accepted as holy—that is, to a sacred power or being. Characteristic modes of response to the holy include cultic acts of all kinds: ritual drama, prayers of many sorts, dancing, ecstatic speech, veneration of various persons and objects, sermons, silent meditation, and sacred music and song. Also included in worship are acts of private response: spoken or unspoken prayers, silence, the assumption of particular postures, ritual acts and gestures, and individual acts of veneration of persons or objects.
-worship ，广义定义，通常与宗教行为和几乎所有宗教的一般特征相关联，对被接受为神圣事物的外观的反应 - 即对神圣的力量或存在。回应圣物的典型方式包括各种祭祀行为：仪式 戏剧、各种祈祷、舞蹈、狂喜的演讲、对不同的人和物的崇拜、布道、静默冥想以及神圣的音乐和歌曲。敬拜中还包括私人回应行为：口头或不口头的祈祷、沉默、特定姿势的假设、仪式行为和手势，以及个人对人或物的崇拜行为。
-
-Silence, devotional readings, set prayers, the rosary (beads used as a devotional aid in Roman Catholicism), bodily postures and attitudes, music, and works of art, including the icons (images) of Eastern Christian churches, all serve to help the worshipper to concentrate his apprehension of the power of the holy and to intensify his sense of the presence of the holy. 
-静默、虔诚的阅读、固定的祈祷、念珠（在罗马天主教中用作虔诚辅助的珠子）、身体姿势和态度、音乐和艺术作品，包括东方基督教教堂的圣像（图像），所有这些都有助于帮助供奉者集中对圣者之力的领悟，强化对圣者临在感。
+1.religion worship宗教礼拜：（是宗教实践的一部分，包含到宗教实践中去）
 
 2.religion teaching宗教教学：
-Under U.S. law, religious education is forbidden in public schools, except from a neutral, academic perspective.
-根据美国法律，公立学校禁止宗教教育，除非是从中立的学术角度
-
-Public schools may not teach religion, although teaching about religion in a secular context is permitted.
-公立学校不得教授宗教，但允许在世俗环境中教授宗教。
+Public schools may not teach religion, although teaching about religion in a secular context is permitted.1 The Bible may be taught in a school, but only for its historical, cultural or literary value and never in a devotional, celebratory or doctrinal manner, or in such a way that encourages acceptance of the Bible as a religious document.
+公立学校不得教授宗教，但允许在世俗环境（寺庙、教堂、清真寺等宗教场所，私立学校，家庭，网络课程）中教授宗教。圣经可以在学校教授，但只能是为了它的历史、文化或文学价值，绝不能以虔诚、庆祝或教义的方式，或以鼓励将圣经作为宗教文件接受的方式。
 
 3.religion practice宗教实践：
-Religion often involves cultural beliefs, worldviews, texts, prophecies, revelations, and morals that have spiritual meaning to members of the particular faith, and it can encompass a range of practices, including sermons, rituals, prayer, meditation, holy places, symbols, trances, and feasts.
-宗教通常涉及对特定信仰的成员具有精神意义的文化信仰、世界观、文本、预言、启示和道德，它可以包括一系列实践，包括布道、仪式、祈祷、冥想、圣地、象征、恍惚和盛宴。
+Religious Practice means a term including practices and observances such as attending worship services, wearing religious garb or symbols, praying at prescribed times, displaying religious objects, adhering to certain dietary rules, refraining from certain activities, proselytizing, etc.
+宗教实践是指包括实践和仪式的术语，例如参加礼拜仪式（双手合十、低头、跪下等手势或姿势），穿着宗教服装或符号（十字架项链、头巾、头巾等衣服或配饰），在规定时间祈祷，展示宗教物品，遵守某些饮食规则，避免某些活动， 传教等。
 
 It states religion may not be used to disrupt public order, impair the health of citizens, or interfere with the educational system. 
 规定公民“享有宗教信仰自由”，但对宗教活动的保护仅限于“正常的宗教活动”，而没有定义正常。它规定宗教不得被用来扰乱公共秩序，损害公民的健康或干扰教育系统。
 
-Several religious and spiritual groups, dubbed “heterodox cults” by Beijing, are subject to regular government crackdowns. The party-state has banned more than a dozen such faiths on the grounds that adherents use religion “as a camouflage, deifying their leading members, recruiting and controlling their members, and deceiving people by molding and spreading superstitious ideas, and endangering society.” Those banned include quasi-Christian groups such as the Church of Almighty God, also known as Eastern Lightning, and Falun Gong, a spiritual movement that blends aspects of Buddhism, Daoism, and traditional qigong exercise. International human rights groups, scholars of religion, and Chinese human rights lawyers have questioned such designations, criticizing the Chinese government for harsh repression against believers.
-一些被北京称为“非正统邪教”的宗教和精神团体经常受到政府的镇压。党国已经禁止了十几种这样的信仰，理由是信徒利用宗教“作为伪装，神化他们的领导成员，招募和控制他们的成员，并通过塑造和传播迷信思想来欺骗人们，危害社会。被禁止的包括准基督教团体，如全能神教会，也被称为东方闪电，以及法轮功，法轮功是一种融合了佛教、道教和传统气功运动的精神运动。国际人权组织、宗教学者和中国人权律师对这种称呼提出质疑，批评中国政府对信徒的严厉镇压。
+4.非法宗教：
 
 
-4.religion observance对教规的遵守：
-他们穿的衣服或配饰，如十字架项链、头巾、头巾等。
-他们持有或展示的符号或物品，如圣经、念珠、祈祷垫等。
-他们采取的手势或姿势，如双手合十、低头、跪下等。
-图片的背景或背景，例如教堂、清真寺、寺庙等。
-
-5.非法宗教：
 
 （3）行踪轨迹：
 铁路运输企业及其工作人员对实施车票实名制管理所获得的旅客身份、购票、乘车等个人信息应当严格保密，不得非法收集、使用、加工、传输、买卖、提供或者公开。---铁路旅客车票实名制管理办法
