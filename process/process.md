@@ -93,5 +93,5 @@ In China, the government recognizes five official religions: Buddhism, Taoism, I
 
 居住证：姓名+号码、姓名+本人相片、姓名+地址
 
-写出如下信息：姓名+身份证号、姓名+住址、姓名+本人相片
+写出如下信息：姓名+号码、姓名+住址、姓名+本人相片
 
