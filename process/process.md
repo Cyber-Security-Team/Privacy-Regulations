@@ -7,9 +7,6 @@
 4.政治意见（言论自由、著作自由、集会自由、结社自由、游行示威自由，欧）；加点其他户外场景；
 5.宗教信仰（宗教团体、宗教院校、宗教活动，中+欧+美）；香，佛，寺庙；
 
-数据：英文，中文？
-匹配法规时能不能用自己总结的话代替法规原文？
-
 
 （1）政治观点：
 Everyone has the right to freedom of expression.
@@ -94,4 +91,6 @@ In China, the government recognizes five official religions: Buddhism, Taoism, I
 居住证：姓名+号码、姓名+本人相片、姓名+地址
 
 写出如下信息：姓名+号码、姓名+住址、姓名+本人相片
+
+标注工作量大---半监督
 
