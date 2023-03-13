@@ -57,7 +57,7 @@ It states religion may not be used to disrupt public order, impair the health of
 规定公民“享有宗教信仰自由”，但对宗教活动的保护仅限于“正常的宗教活动”，而没有定义正常。它规定宗教不得被用来扰乱公共秩序，损害公民的健康或干扰教育系统。
 
 4.非法宗教：
-不好搞：
+各国之间的区别不好分：
 In China, the government recognizes five official religions: Buddhism, Taoism, Islam, Protestantism, and Catholicism1. The practice of any other faith is formally prohibited.
 在中国，政府承认五种官方宗教：佛教、道教、伊斯兰教、新教和天主教。 正式禁止任何其他信仰的实践。
 被中国政府视为非法或取缔的宗教团体包括法轮功运动，全能神教会。
