@@ -94,7 +94,9 @@ In China, the government recognizes five official religions: Buddhism, Taoism, I
 
 标注工作量大---半监督
 
-零镜头图像字幕：Text-Only Training for Image Captioning using Noise-Injected CLIP，2022，EMNLP
+零镜头图像字幕：在不使用任何标记数据的情况下为图像生成字幕
+
+Text-Only Training for Image Captioning using Noise-Injected CLIP，2022，EMNLP
 
 ![image](https://user-images.githubusercontent.com/86655336/224634446-5b93ba68-87b1-4c36-a207-d3ae9307819c.png)
 
