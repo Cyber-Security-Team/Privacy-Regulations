@@ -92,9 +92,9 @@ In China, the government recognizes five official religions: Buddhism, Taoism, I
 
 写出如下信息：姓名+号码、姓名+住址、姓名+本人相片
 
-标注工作量大---
+标注工作量大---半监督
 
-Text-Only Training for Image Captioning using Noise-Injected CLIP，2022，EMNLP
+零镜头图像字幕：Text-Only Training for Image Captioning using Noise-Injected CLIP，2022，EMNLP
 
 ![image](https://user-images.githubusercontent.com/86655336/224634446-5b93ba68-87b1-4c36-a207-d3ae9307819c.png)
 
