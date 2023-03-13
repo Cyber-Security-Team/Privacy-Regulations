@@ -100,6 +100,6 @@ Text-Only Training for Image Captioning using Noise-Injected CLIP，2022，EMNLP
 
 CLIP把两个模态的映射到同一个空间。
 1.扩充CLIP模型的文本嵌入空间。利用文本数据来生成一些噪声注入的CLIP文本嵌入。一种是随机替换一些词语，另一种是随机插入一些词语。
-2.学习一个解码器模型。将CLIP文本嵌入转换为图像描述。
+2.学习一个Transformer解码器模型。将CLIP文本嵌入转换为图像描述。
 
 
