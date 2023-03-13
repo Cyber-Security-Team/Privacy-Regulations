@@ -22,7 +22,7 @@ The right in article 19(2) protects freedom of expression in any medium, for exa
 保护任何媒介的言论自由，例如书面和口头交流、媒体、公众抗议、广播、艺术作品和商业广告。--《公民权利和政治权利国际公约》
 
 These limits come into play when there is a conflict between this right and other rights and freedoms, such as in cases of defamation, slander, pornography, obscenity, or infringement of intellectual property. In addition, the law prohibits any propaganda for war and any advocacy of national, racial, or religious hatred that incites discrimination, hostility, or violence.
-言论自由不是绝对权利，它有一定的法律和社会限制。 当这项权利与其他权利和自由发生冲突时，例如在诽谤、诽谤、色情、淫秽或侵犯知识产权的情况下，这些限制就会发挥作用。 此外，法律禁止任何战争宣传和任何煽动歧视、敌意或暴力的民族、种族或宗教仇恨的鼓吹。
+言论自由不是绝对权利，它有一定的法律和社会限制。 当这项权利与其他权利和自由发生冲突时，例如在诽谤、色情、淫秽或侵犯知识产权的情况下，这些限制就会发挥作用。 此外，法律禁止任何战争宣传和任何煽动歧视、敌意或暴力的民族、种族或宗教仇恨的鼓吹。
 
 2.集会自由：
 The right to freedom of peaceful assembly is an individual right that includes the ability of people to come together and collectively express, promote, pursue, and defend their shared ideas. This right encompasses the right to hold meetings, sit-ins, strikes, rallies, events, or protests, both offline and online.
