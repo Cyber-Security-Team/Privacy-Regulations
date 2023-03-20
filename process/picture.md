@@ -11,8 +11,10 @@ Towards a Visual Privacy Advisor: Understanding and Predicting Privacy Risks in 
 PrivAttNet: Predicting Privacy Risks in Images Using Visual Attention. ICPR 2020
 PrivAttNet的注意力机制是基于一个卷积神经网络（CNN）和一个全连接层（FC）的组合。它首先使用CNN来提取图像的特征，然后使用FC来计算每个特征图的权重，这些权重就是注意力分数。注意力分数越高，表示该特征图对隐私分数的贡献越大。然后，它将所有的特征图按照注意力分数加权求和，得到一个最终的特征向量，这个向量就是用来预测隐私分数的输入。
 
+单标签图像回归问题是指给定一张图像，预测一个连续的数值。
+
 Privacy Attributes-aware Message Passing Neural Network for Visual Privacy Attributes Classification，2020，ICPR
-通过构建图神经网络来探索各对象之间的关联性
+通过构建图神经网络来探索各对象之间的关联性。
 
 多标签图像分类任务
 
