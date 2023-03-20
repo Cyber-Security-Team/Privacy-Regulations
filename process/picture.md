@@ -18,6 +18,6 @@ Privacy Attributes-aware Message Passing Neural Network for Visual Privacy Attri
 
 多标签图像分类任务
 
-交叉领域：工业场景下的图像隐私检测问题
+交叉领域：工业场景下（产品检测）、医疗（医疗影像）的图像隐私检测问题(看不出来)
 
 
