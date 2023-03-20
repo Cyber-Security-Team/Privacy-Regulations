@@ -19,6 +19,6 @@ Privacy Attributes-aware Message Passing Neural Network for Visual Privacy Attri
 多标签图像分类任务
 
 
-
+工业场景下的图像隐私检测问题
 
 
