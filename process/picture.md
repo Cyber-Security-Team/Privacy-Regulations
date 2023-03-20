@@ -1,4 +1,7 @@
 之前的隐私图像检测：
+
+交叉领域：工业场景下（产品检测）、医疗（医疗影像）的图像隐私检测问题(看不出来)
+
 PicAlert： Privacy-aware image classification and search. SIGIR 2012: 35-44最早最常用的公开隐私数据集 大多数私人图像都包含人，这会导致对所考虑的私人对象的偏见（63%的私人图像包含人）； 可能的标签是私有的、公共的和不可决定的（如果不能对图像标签做出决定）。
 
 PrivacyAlert: A Dataset for Image Privacy Prediction. ICWSM 2022: 1352-1361； 发的一篇公开隐私数据集的论文； 从Flickr中提取的最近图像开发的数据集；
@@ -18,6 +21,6 @@ Privacy Attributes-aware Message Passing Neural Network for Visual Privacy Attri
 
 多标签图像分类任务
 
-交叉领域：工业场景下（产品检测）、医疗（医疗影像）的图像隐私检测问题(看不出来)
+
 
 
