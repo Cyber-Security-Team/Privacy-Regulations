@@ -1,7 +1,10 @@
 通过二进制代码相似度做漏洞检测
 
-数据集来源：2022 USENIX How Machine Learning Is Solving the Binary Function Similarity Problem；
-由七个流行的开源项目组成：ClamAV、Curl、Nmap、OpenSSL、Unrar、Z3和Zlib
+数据集来源：
+
+2022 USENIX How Machine Learning Is Solving the Binary Function Similarity Problem；一篇综述
+
+由七个流行的开源项目组成：ClamAV、Curl、Nmap、OpenSSL、Unrar、Z3和Zlib；这篇论文复现了20年之前的工作，
 
 漏洞库：OpenSSL1.0.2d中选择了十个易受攻击的函数，涵盖了八个CVE
 
