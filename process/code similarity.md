@@ -25,3 +25,12 @@
 以前的方法忽略了忽略了二进制代码中跳转指令的重要性。因此，该论文考虑了二进制代码中跳转指令（jump instructions）对控制流图（CFG）和语义信息的影响，并设计了一种跳转感知（jump-aware）的Transformer模型，它可以显式地捕捉CFG中的跳转信息，并增强Transformer对二进制代码结构和语义的理解。然后，利用bert对模型进行预训练和微调。
 
 
+先整理了数据
+![image](https://user-images.githubusercontent.com/86655336/230761885-37f420f6-a96d-4c17-879e-ef26d0ade0eb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/86655336/230761891-217c3369-6529-4121-84c7-b314fc1d961c.png)
+
+数据集结果存在问题：
+
