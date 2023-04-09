@@ -26,11 +26,15 @@
 
 
 先整理了数据
+训练：
 ![image](https://user-images.githubusercontent.com/86655336/230761885-37f420f6-a96d-4c17-879e-ef26d0ade0eb.png)
 
+![image](https://user-images.githubusercontent.com/86655336/230762170-e2817ee3-fad2-4c34-9dc4-ac10d47f4521.png)
 
-
+测试：
 ![image](https://user-images.githubusercontent.com/86655336/230761891-217c3369-6529-4121-84c7-b314fc1d961c.png)
 
 数据集结果存在问题：
+
+![image](https://user-images.githubusercontent.com/86655336/230762075-b99f9c67-c367-4567-82fd-96e6f0287ef0.png)
 
