@@ -34,7 +34,10 @@
 测试：
 ![image](https://user-images.githubusercontent.com/86655336/230761891-217c3369-6529-4121-84c7-b314fc1d961c.png)
 
-数据集结果存在问题：
+实验结果:
+![image](https://user-images.githubusercontent.com/86655336/232176722-1b050c2a-de0a-41e7-a455-41b7e6cd77c3.png)
 
-![image](https://user-images.githubusercontent.com/86655336/230762075-b99f9c67-c367-4567-82fd-96e6f0287ef0.png)
+mrr
+![image](https://user-images.githubusercontent.com/86655336/232176759-891e960d-1e76-49a3-b189-26316d70f13d.png)
+
 
