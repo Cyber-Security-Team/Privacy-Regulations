@@ -1,0 +1,80 @@
+基于二进制代码相似度分析的漏洞检测
+应用场景：固件在频繁遭受着安全漏洞的影响
+解决方法：探索基于二进制相似度分析技术来检测嵌入式设备固件中存在的已知漏洞
+目的：给定一个易受攻击的函数，相似性技术有助于在一个或多个二进制文件中找到相同函数的出现，从而更快地识别和修补有问题的错误。
+困难：
+(1)固件源代码通常是无法获取的；
+(2)使用不同的编译器、优化设置和不同的架构编译的二进制文件是不同的
+
+
+传统的二进制代码相似性技术包括静态和动态方法：
+1、静态分析：
+2016 PLDI Statistical Similarity of Binaries
+方法：将代码分解为更小的可比片段，定义片段之间的语义相似性，并使用统计推理将片段相似性提升为过程之间的相似性
+局限性：没有考虑程序语义，只考虑了程序的语法结构。
+应用场景：漏洞搜索
+
+2017 ACM，BinSequence: Fast, Accurate and Scalable Binary Code Reuse Detection
+贡献：提出了一种模糊匹配方法来比较两个函数
+目的:获得高质量的汇编函数相似性排序最终将其用于代码重用检测，并在补丁分析、恶意软件分析和漏洞搜索这些真实场景中验证了方法的有效性
+
+
+2、动态分析： 旨在通过运行可执行文件来分析二进制文件的语义
+2017 IEEE Trans Semantics-Based Obfuscation-Resilient Binary Code Similarity Comparison with Applications to Software and Algorithm Plagiarism Detection
+解决的问题：之前的方法无法对抗混淆
+方法：基于符号执行来收集行为轨迹
+应用场景：应用于软件和算法抄袭检测
+
+2017 usenix BinSim Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking
+存在的问题：现有的方法依赖于比较运行时行为或将代码片段语义与符号执行进行建模
+解决方法：提出了系统调用切片段等价性检查，这是一种识别两个执行轨迹之间细粒度语义相似性或差异的混合方法
+应用场景：恶意软件检测
+
+
+目前方法
+3、机器学习：受NLP启发
+2017 CCS，Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection
+Gemini，贡献：提出了一种基于神经网络的图嵌入方法，即基于每个二元函数的控制流图的数字向量，然后可以通过测量两个函数的嵌入之间的距离来有效地进行相似性检测。
+该方法存在的问题：每个块都被表示为具有手动选择特征的低维嵌入，这将导致大量语义信息的丢失
+
+2019 ICLR， Graph Matching Networks for Learning the Similarity of Graph Structured Objects
+GMN，贡献：提出了一个新的图匹配网络模型，该模型在给定一对图作为输入的情况下，通过一种新的基于交叉图注意力的匹配机制对这对图进行联合推理，来计算它们之间的相似性得分
+存在的问题：以图的形式去逐个匹配，运行速度相对较慢
+
+
+2020 AAAI，Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection
+Order Matters，贡献：提出了一种语义感知神经网络来提取二进制代码的语义信息，发现CFG节点的顺序对于图形相似性检测很重要
+优点：比图匹配的方法速度更快
+缺点：训练时需要较多的数据
+
+
+2019，DIMVA，SAFE: Self-Attentive Function Embeddings for Binary Similarity
+SAFE，贡献：使用word2vec模型来生成指令嵌入，并提出了一种递归神经网络来生成函数嵌入。
+优势：通过将二进制函数转换成一个嵌入向量的形式，再去计算相似程度，运行速度快
+解决问题：之前的方法使用手动选择的特征来计算嵌入
+
+
+2019 S&P，Asm2vec: Boosting static representation robustness for binary clone search against code obfuscation and compiler optimization
+Asm2Vec，贡献：可以在不需要任何先前知识的情况下，仅使用汇编代码作为输入，学习汇编函数的词汇语义关系和向量表示。
+
+
+2022 ISSTA，jTrans: Jump-Aware Transformer for Binary Code Similarity
+jTrans，贡献：它是第一个将二进制代码的控制流信息嵌入到基于 Transformer 的语言模型中。
+首先使用无监督学习任务来预训练jTrans来学习指令的语义和控制二进制函数的控制流信息。然后，对预先训练的jTrans进行微调，以匹配语义相似的函数
+数据集：基于ArchLinux official存储库和Arch User存储库
+
+
+2022 ACSAC，Practical Binary Code Similarity Detection with BERT-based Transferable Similarity Learning
+BinShot，作者发现体系结构中的距离函数和损失函数都会高度影响模型的性能。提出一种基于BERT的相似性学习架构，并在BERT之上采用了一个具有二进制交叉熵的加权距离向量作为损失函数
+进行了两阶段的训练：预训练(bert学习汇编代码之间的关系)，用汇编代码构建通用模型，然后进行微调
+贡献：主要贡献是建议使用二进制交叉熵损失函数学习加权距离向量，而现有模型仅学习距离本身
+数据集：GNU实用程序（binutils（v2.26）、coreutils（v8.30）、diffutils（v2.8）和findutils（v4.7.0））、SPEC2006、SPEC2017的可执行二进制文件，以及我们选择的现实世界程序（BusyBox（v1.34.1）、Libgmp（v6.2.1）、ImageMagick（v7.0.10）、Libcurl（v7.78.0）、LibTomCrypt（v1.18.2）、OpenSSL（v1.11f）、SQLite（v3.30.1）、zlib（v1.2.8）、PuTTYgen（v0.76）、Nginx（v1.16.1）和vsftpd（v3.0.3））
+
+
+以上方法对比：
+1、静态分析无需实际执行，能够覆盖所有的代码，但其往往只能依赖语法或结构特征，而无法获取足够的语义信息，因此，检测准确率相对较低。
+2、动态分析通过实际执行／模拟执行二进制代码，获取输入输出信息或者程序的运行时行为信息，能够获取比静态分析更精确的语义信息来代表二进制代码，因此，能发现静态分析不能发现的漏洞。然而，其开销大，可伸缩性差，往往需要足够的输入才能保证其代码覆盖率，而且它们往往只分析执行过的代码，因此不适用丁大规模的嵌入式设备固件漏洞分析。
+3、机器学习的优势：
+1)具有更高的准确度．它们在分析中充分融合了代码的特征(语法特征、语义特征或结构特征等)。
+2)具有更好的可扩展性，避免了繁重的图匹配算法或动态执行。
+3)学习过程可以通过GPU显著加速。
