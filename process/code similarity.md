@@ -37,7 +37,7 @@
 实验结果:
 ![image](https://user-images.githubusercontent.com/86655336/232176722-1b050c2a-de0a-41e7-a455-41b7e6cd77c3.png)
 
-mrr
+mrr@10
 ![image](https://user-images.githubusercontent.com/86655336/232176759-891e960d-1e76-49a3-b189-26316d70f13d.png)
 
 
