@@ -21,9 +21,6 @@
 
 每个模型的数据预处理都不一样（同一个数据集对不同模型的预处理也不同）
 
-2022 ISSTA jTrans Jump-Aware Transformer for Binary Code Similarity；
-以前的方法忽略了忽略了二进制代码中跳转指令的重要性。因此，该论文考虑了二进制代码中跳转指令（jump instructions）对控制流图（CFG）和语义信息的影响，并设计了一种跳转感知（jump-aware）的Transformer模型，它可以显式地捕捉CFG中的跳转信息，并增强Transformer对二进制代码结构和语义的理解。然后，利用bert对模型进行预训练和微调。
-
 
 先整理了数据
 训练：
@@ -41,3 +38,6 @@ mrr@10
 ![image](https://user-images.githubusercontent.com/86655336/232176759-891e960d-1e76-49a3-b189-26316d70f13d.png)
 
 
+2022 ISSTA jTrans Jump-Aware Transformer for Binary Code Similarity；
+以前的方法忽略了忽略了二进制代码中跳转指令的重要性。因此，该论文考虑了二进制代码中跳转指令（jump instructions）对控制流图（CFG）和语义信息的影响，并设计了一种跳转感知（jump-aware）的Transformer模型，它可以显式地捕捉CFG中的跳转信息，并增强Transformer对二进制代码结构和语义的理解。然后，利用bert对模型进行预训练和微调。
+用源数据可以跑，但是用自己的数据跑不了
