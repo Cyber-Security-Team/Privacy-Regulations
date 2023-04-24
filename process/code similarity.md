@@ -43,6 +43,8 @@ mrr@10
 
 用源数据可以跑，但是因为缺少IDA linux的工具用自己的数据跑不了
 
+漏洞数据集链接：https://github.com/SecretPatch/Dataset
+
 
 2021 CCS ,PalmTree: Learning an Assembly Language Model for Instruction Embedding
 ![image](https://user-images.githubusercontent.com/86655336/233924193-2b629232-81a4-42be-9934-14d1fb089254.png)
