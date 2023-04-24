@@ -47,3 +47,25 @@ mrr@10
 2021 CCS ,PalmTree: Learning an Assembly Language Model for Instruction Embedding
 ![image](https://user-images.githubusercontent.com/86655336/233924193-2b629232-81a4-42be-9934-14d1fb089254.png)
 
+
+
+
+2022 USENIX How Machine Learning Is Solving the Binary Function Similarity Problem；
+漏洞测试：
+选择了嵌入两个固件映像中的libcrypto库：Netgear R7000（ARM 32位）和TP-Link Deco M4（MIPS 32位）---有漏洞的固件库
+测试是否存在漏洞的二进制函数：
+OpenSSL1.0.2d中选择了十个易受攻击的函数，总共涵盖了八个CVE（x86、x64、ARM32、MIPS32）
+![image](https://user-images.githubusercontent.com/86655336/234021592-df0f97f7-389e-43a5-93ae-2ca6e185d872.png)
+
+
+2022 TSE，trex：Learning Approximate Execution Semantics from T races for Binary Function Similarity
+从22家供应商（包括WLAN路由器、智能相机和太阳能电池板）、知名制造商的最新官方版本和DD-WRT等第三方供应商（请参阅我们的补充材料了解固件详细信息）的180种产品中抓取固件图像
+我们使用Open Distro For Elasticsearch[5]构建函数嵌入并构建数据库
+对于每个CVE，在指定的库版本中编译相应的易受攻击函数
+
+
+
+
+
+
+
