@@ -42,3 +42,8 @@ mrr@10
 以前的方法忽略了忽略了二进制代码中跳转指令的重要性。因此，该论文考虑了二进制代码中跳转指令（jump instructions）对控制流图（CFG）和语义信息的影响，并设计了一种跳转感知（jump-aware）的Transformer模型，它可以显式地捕捉CFG中的跳转信息，并增强Transformer对二进制代码结构和语义的理解。然后，利用bert对模型进行预训练和微调。
 
 用源数据可以跑，但是因为缺少IDA linux的工具用自己的数据跑不了
+
+
+2021 CCS ,PalmTree: Learning an Assembly Language Model for Instruction Embedding
+![image](https://user-images.githubusercontent.com/86655336/233924193-2b629232-81a4-42be-9934-14d1fb089254.png)
+
