@@ -63,7 +63,7 @@ OpenSSL1.0.2d中选择了十个易受攻击的函数，总共涵盖了八个CVE�
 一些CVE数据：
 https://github.com/m2kar/FirmSecDataset   固件
 
-https://github.com/nimrodpar/esh-dataset-1523  包含有CVE的二进制文件，但是需要自己编译成某种架构才能使用
+https://github.com/nimrodpar/esh-dataset-1523  包含有CVE的二进制文件
 
 https://github.com/SecretPatch/Dataset   CVE补丁文件
 
