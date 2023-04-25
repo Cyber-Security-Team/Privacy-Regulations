@@ -37,6 +37,7 @@
 mrr@10
 ![image](https://user-images.githubusercontent.com/86655336/232176759-891e960d-1e76-49a3-b189-26316d70f13d.png)
 
+![image](https://user-images.githubusercontent.com/86655336/234159238-d97aa724-e648-4b04-a57b-9d90d375777c.png)
 
 2022 ISSTA jTrans Jump-Aware Transformer for Binary Code Similarity；
 以前的方法忽略了忽略了二进制代码中跳转指令的重要性。因此，该论文考虑了二进制代码中跳转指令（jump instructions）对控制流图（CFG）和语义信息的影响，并设计了一种跳转感知（jump-aware）的Transformer模型，它可以显式地捕捉CFG中的跳转信息，并增强Transformer对二进制代码结构和语义的理解。然后，利用bert对模型进行预训练和微调。
