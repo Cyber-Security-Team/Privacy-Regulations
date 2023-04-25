@@ -46,6 +46,7 @@ mrr@10
 
 
 2021 CCS ,PalmTree: Learning an Assembly Language Model for Instruction Embedding
+使用bert的预训练模型对指令进行处理，生成指令嵌入向量
 ![image](https://user-images.githubusercontent.com/86655336/233924193-2b629232-81a4-42be-9934-14d1fb089254.png)
 
 2022 USENIX How Machine Learning Is Solving the Binary Function Similarity Problem；
