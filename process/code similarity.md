@@ -69,3 +69,8 @@ https://github.com/nimrodpar/esh-dataset-1523  包含有CVE的二进制文件
 
 https://github.com/SecretPatch/Dataset   CVE补丁文件
 
+
+
+2022 ISSTA A Large-Scale Empirical Analysis of the Vulnerabilities Introduced by Third-Party Components in IoT Firmware，
+通过检测到具体的库，然后得知有哪些CVE漏洞
+
