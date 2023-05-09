@@ -74,3 +74,9 @@ https://github.com/SecretPatch/Dataset   CVE补丁文件
 2022 ISSTA A Large-Scale Empirical Analysis of the Vulnerabilities Introduced by Third-Party Components in IoT Firmware，
 通过检测到具体的库，然后得知有哪些CVE漏洞
 
+图相似性：
+Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation
+介绍了一种基于知识蒸馏的高效图相似度计算方法。该方法利用了图神经网络（GNN）的强大表示能力，将一个精确但慢速的GNN教师模型和一个近似但快速的GNN学生模型进行知识蒸馏，从而实现了在保证准确度的同时提高了计算效率。
+
+
+
