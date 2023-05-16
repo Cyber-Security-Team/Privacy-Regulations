@@ -78,7 +78,8 @@ https://github.com/SecretPatch/Dataset   CVE补丁文件
 Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation
 介绍了一种基于知识蒸馏的高效图相似度计算方法。该方法利用了图神经网络（GNN）的强大表示能力，将一个精确但慢速的GNN教师模型和一个近似但快速的GNN学生模型进行知识蒸馏，从而实现了在保证准确度的同时提高了计算效率。
 
-
+2022，IJCAI，CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning
+![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/47c79e68-f1e8-43e6-8ada-c21b950506c6)
 
 
 
