@@ -78,9 +78,24 @@ https://github.com/SecretPatch/Dataset   CVE补丁文件
 Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation
 介绍了一种基于知识蒸馏的高效图相似度计算方法。该方法利用了图神经网络（GNN）的强大表示能力，将一个精确但慢速的GNN教师模型和一个近似但快速的GNN学生模型进行知识蒸馏，从而实现了在保证准确度的同时提高了计算效率。
 
-2022，IJCAI，CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning
-![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/47c79e68-f1e8-43e6-8ada-c21b950506c6)
 
+先是提升在二进制代码相似度检测上的性能，然后把这个模型应用到漏洞检测的任务中去。
+
+在目前现有的方法中，图匹配的方法是性能最好的一个，针对图匹配去做一些改进。
+改进二进制代码相似度检测的方法：
+2022，IJCAI，CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning
+![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/ec802507-1d8d-434a-9b4f-527993c7170a)
+
+提出了两种策略，即交叉视图交互和交叉图交互，来进行有效的节点表示学习。前者用于加强两个视图中节点表示的一致性。后者用于识别不同图之间的节点差异。
+
+
+为什么要提这个策略：
+传统的算法主要考虑图的结构，而忽略了图中包含的丰富属性信息，包括节点特征、边缘特征等，限制了其适用性
+
+
+目前进度：
+将原来图匹配给的tensorflow官方代码改写为了pytorch结构的代码，方便调试
+将该策略写入代码中（还在加）
 
 
 
