@@ -95,9 +95,9 @@ Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Kno
 
 目前进度：
 将原来图匹配给的tensorflow官方代码改写为了pytorch结构的代码，方便调试
-将该策略写入代码中（还在加）
+将该策略写入代码中
 
-
+目前存在的问题：运行时间太久或内存不足，修改的代码还要再优化下
 
 
 
