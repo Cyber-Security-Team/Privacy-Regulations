@@ -92,12 +92,15 @@ Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Kno
 为什么要提这个策略：
 传统的算法主要考虑图的结构，而忽略了图中包含的丰富属性信息，包括节点特征、边缘特征等，限制了其适用性
 
-修改了数据处理部分，
-二进制相似度部分：70%，漏洞部分：20
 
 
 
 之前的官方tensorflow代码调成了pytorch代码，直接在这个上面修改
+![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/0d39772a-b0c8-49a2-b829-228e0e00f156)
+
+![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/cfcb8bf0-91f2-4f79-b786-994495df84cf)
+
+在找一些以图方式解决文本相似度的论文
 
 
 
