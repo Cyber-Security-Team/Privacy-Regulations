@@ -1,4 +1,4 @@
-总共收集了1318条推销类的评论，其中finance类170条(12.8%)，game类937条(71.1%)，shopping类43条(3.2%)，social类168条(12.9%)。
+总共收集了1318条推销类的评论，占总量的4.9%。其中finance类170条(12.8%)，game类937条(71.1%)，shopping类43条(3.2%)，social类168条(12.9%)。
 
 总结：
 1. 加QQ    +Q  ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/40346761-6d1b-4d7f-95c2-f12f8d4017f7)              ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/5740f2ba-fb94-402b-a9f1-4b222a9fb6ae)            ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/453590d8-8f0a-44b4-acdc-ae255dde6d99)        企鹅   QQ
