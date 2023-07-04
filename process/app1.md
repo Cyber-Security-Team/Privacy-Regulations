@@ -2,13 +2,19 @@
 
 总结：
 1. 加QQ    +Q  ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/40346761-6d1b-4d7f-95c2-f12f8d4017f7)              ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/5740f2ba-fb94-402b-a9f1-4b222a9fb6ae)            ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/453590d8-8f0a-44b4-acdc-ae255dde6d99)        企鹅   QQ
+
 2.加微信   +\/   加v  薇   微   卫     茄蔚  佳薇   威   嶶   佳维  徽    ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/c4f6c574-6bcc-4e0b-9e08-2f1c42249210)
+
 3.电话   ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/5089f01a-d4b2-476d-a4d9-784205e26a79)
+
 4.网址   5813398.com     ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/7bfd8c58-d1cb-49a3-92fb-6ebadc5df118)
    《现\惍\茺堤琪牌《吽吽.唫花.佰仁吽吽等》在浏榄器打开 ❽ ❽ v 点 me     ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/3569f1a9-097a-46ff-8c89-67df8b825ca2)
        快快快点击链接下载地址网页下载地址记得安装后关注      ![image](https://github.com/Cyber-Security-Team/Privacy-Regulations/assets/86655336/9a3a184c-7bb1-4ac7-9d6f-da3199ab0cc9)
+
 5. 邀请码     JWLZ 内玩送真冲赞助
+
 6.卖号  加号玩  代打  卖号的加我2360153804   较少
+
 7.其他：女m+614293068
 
 
